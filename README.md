@@ -1,4 +1,5 @@
-💻 Olá! Seja bem-vindo(a) ao meu perfil!
+**💻 Olá! Seja bem-vindo(a) ao meu perfil!**
+
 Sou um estudante apaixonado por tecnologia e software, com foco em desenvolvimento de software e suporte técnico.  
 Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas (ADS)** na **FACENS** e busco sempre aprimorar minhas habilidades técnicas, construindo uma base sólida em programação, TI e projetos práticos que fazem a diferença no dia a dia.
 
