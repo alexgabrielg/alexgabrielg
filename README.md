@@ -12,10 +12,12 @@ Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas (ADS)** na *
 🔧 Tecnologias e Ferramentas
 
 Linguagens: Java
+
 Ferramentas de Desenvolvimento: IntelliJ IDEA, Git  
 
 📫 Contato
 
 E-mail: alexssandrogabriel95@gmail.com
+
 LinkedIn: www.linkedin.com/in/alexssandrogabrieldealmeidasilva  
 
